@@ -118,3 +118,5 @@
   btnLoop.innerHTML = '<img src="buttons/loop-off.svg" alt="Loop" />';
 
 }());
+
+let newVarTest = 0;
